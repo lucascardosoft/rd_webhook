@@ -1,2 +1,2 @@
 # Teste de webhook
-- [] Conectar ao RD Station
+- [ ] Conectar ao RD Station
